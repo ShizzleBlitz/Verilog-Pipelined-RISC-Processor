@@ -1,7 +1,7 @@
 # Verilog-Pipelined-RISC-Processor
 This is a incomplete pipelined RISC processor created in verilog using a number of modules connected to each other. The instructions as well as their syntax is written in the IM file. You can edit the IM file in order to add your own instructions.
 
-\n\n
+
 An example of the instructions that can be executed is given below:
 
 addi $1, $1, 3
