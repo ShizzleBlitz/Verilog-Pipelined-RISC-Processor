@@ -14,7 +14,9 @@ jump 44
 Binary:  32'b001000_00000_00000_00000_00000_000111
 
 **Values**
+
 ![image](https://github.com/ShizzleBlitz/Verilog-Pipelined-RISC-Processor/assets/100959619/582ec85c-47a5-4c07-bbb6-1978aa97e336)
 
 **Control Signals**
+
 ![image](https://github.com/ShizzleBlitz/Verilog-Pipelined-RISC-Processor/assets/100959619/05a6ddbb-3e62-448b-8ff7-16c9ed07aa96)
